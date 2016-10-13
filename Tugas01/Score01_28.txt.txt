@@ -1,0 +1,9 @@
++10 Tugas Selesai 5 Lagu Anak
++1 Untuk tambahan 1 Lagu
++12 Untuk 6 lagu di tab baru
+-6 untuk lagu tanpa gambar 
++2 untuk background index.html
++7 untuk link judul lagu yang link ke wikipedia (Bebek, Angsa, Kapiten, KeretaApi, Balon, Belajar, Sepeda)
++2 untuk link facebook dari halaman index
+
+TOTAL JUMLAH 28
