@@ -1,0 +1,55 @@
+body{
+	background: url("Gambar/background_css.jpg") no-repeat fixed;
+	text-align: center;
+}
+
+img{
+	width: 500px;
+}
+
+h1{
+	color: red;
+	font: 35px garamond bold;
+}
+
+.judulutama{
+	color: #3AFFF1;
+	font: 40px lucida handwriting;
+	text-align: left;
+}
+
+.linkkembali{
+	font: 30px bold;
+	padding: 15px 25px;
+	background-color: #000000;
+	display: inline-block;
+}
+
+
+p{
+	color: #3AFFF1;
+	font: 30px trebuchet ms;
+}
+
+ol{
+	color: #3AFFF1;
+	margin-left: 30px;
+	text-align: left;
+	font: 35px comic sans ms;
+}
+
+
+/*Link yg blm di-kunjungi, dan masih AKTIF*/
+a:link, a:active{
+	color: #00465F;
+}
+
+/*Link yg sdh di-kunjungi, TDK AKTIF*/
+a:visited{
+	color: #333333;
+}
+
+/*Link yg ganti warna saat pointer-mouse diarahkan*/
+a:hover{
+	color: #3AFFF1;
+}
