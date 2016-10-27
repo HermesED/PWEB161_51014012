@@ -1,0 +1,19 @@
+20/10/2016
+========================================
++10 Tugas siap
++5 untuk 5 lagu tambahan
+-10 untuk height dan width
+
+Total = 5 poin
+========================================
+
+
+27/10/2016
+========================================
++10 untuk tugas dikerjakan
+
+-1 untuk setting penggunaan nama warna (pada bagian css = h1)
+
++22 untuk setiap penggunaan class yang berulang (class="link kembali")
+
+Total Score = 31+5 = 36
