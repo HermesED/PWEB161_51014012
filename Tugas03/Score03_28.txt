@@ -1,0 +1,5 @@
+11/03/2016
+=============================================================
++10 untuk tanggal commit pertama sebelum jam 00.00 tadi malam
++15 untuk setiap selector yang lebih dari 5 baris = 3 Selector x (+5) = +15
++3 untuk menu yang unik
