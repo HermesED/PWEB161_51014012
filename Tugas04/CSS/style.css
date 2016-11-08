@@ -1,0 +1,84 @@
+header {
+  text-align: center;
+  background: #000030;
+  font-family: Comic sans MS, Helvetica, Arial;
+  color: white;
+}
+
+header .container {
+    padding-top: 20px;
+    padding-bottom: 50px;
+    font-size: 15px;
+}
+
+header img {
+  display: block;
+  margin: 0 auto 20px;
+}
+
+#portfolio .portfolio-item .portfolio-link .caption {
+  background: #0000F2;
+}
+
+.portfolio-modal .modal-content {
+    color: #000000;
+}
+
+.sosmed{
+  height: 60px;
+  width: 60px;
+  border-radius: 20px;
+}
+
+.sosmed2{
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+.gambar1{
+	width: 300px;
+}
+
+img{
+	width: 450px;
+	border-radius: 100px;
+}
+
+.navbar{
+	background-color: #000000;
+}
+
+.tentang{
+	background-color: #000000;
+	margin-top: 10px;
+	margin-bottom: 50px;
+}
+
+footer .footer-above{
+  	background-color: #000030;
+}
+
+footer h2, p{
+  color: #FFFFFF;
+}
+
+@media (max-width: 767px) {
+  section {
+    padding: 75px 0;
+    background-color: red;
+  }
+  section.first {
+    padding-top: 75px;
+    background-color: red;
+  }
+}
+
+.navbar-custom .navbar-nav li a:hover {
+  color: #0000F2;
+  outline: none;
+}
+
+.portfolio-modal .modal-content img {
+  border-radius: 50px;
+  width: 500px;
+}
