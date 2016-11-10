@@ -1,0 +1,12 @@
+11/10/2016
+=================================================
+Name : Freelancer
+Link : https://startbootstrap.com/template-overviews/freelancer/
+
+1.|(+10) untuk tugas yang di upload sebelum 09/11/2016
+
+2.|(+16) untuk css yang di override
+
+3.|4 class x (+3) = (+12) untuk class baru yang tidak ada di css freelancer
+
+TOTAL = 38
