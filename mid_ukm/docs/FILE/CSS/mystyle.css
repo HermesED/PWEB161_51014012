@@ -1,0 +1,252 @@
+body {
+  padding-top: 70px;
+}
+/* CUSTOMIZE NAVIGASI BAR
+-------------------------------------------------- */
+/* Customize dasar */
+.navbar{
+  background: #000070;
+  font-family: comic sans ms, helvetica, arial;
+  font-weight: bold;
+  border-radius: 5px;
+  border-color: #0000B2;
+  border-style: ridge;
+}
+/* Customize list navigasi */
+.navbar li{
+  margin-top: 6px;
+  border-radius: 12px;
+  border-color: #0000B2;
+  border-style: ridge;
+  margin-right: 5px;
+  background-color: #000060;
+}
+/* Customize warna link navigasi saat mouse hover */
+.navbar li:hover{
+  background-color: #0000F2;
+  border-radius: 12px;
+}
+/* Customize warna huruf link navigasi*/
+.navbar .navbar-nav li > a{
+  color: #FFFFFF;
+}
+/* Customize warna huruf link navigasi saat di hover*/
+.navbar .navbar-nav li > a:hover{
+  color: #FFFFFF;
+}
+/* Customize link navigasi saat aktif */
+.navbar .navbar-nav .active a{
+  background-color: #0000F2;
+  color: #FFFFFF;
+  border-radius: 12px;
+}
+/* Customize link navigasi saat aktif dan di hover */
+.navbar .navbar-nav .active a:hover{
+  background-color: #0000A5;
+  color: #FFFFFF;
+}
+/* Customize gambar stmik kharisma di navigasi bar */
+.navbar .container img{
+  width: 200px;
+  height: 30px;
+  margin-top: 5px;
+  margin-right: 20px;
+  margin-left: 35px;
+  position: static;
+}
+/* Customize tulisan K-ART di navigasi bar */
+.navbar .container h3{
+  margin-right: 20px;
+  margin-top: 3px;
+  margin-left: 5px;
+  position: static;
+  font-family: lucida handwriting;
+  font-size: 19px;
+  font-weight: bold;
+  color: #00F9F9;
+  font-style: oblique;
+}
+/* CUSTOMIZE MENU DROPDOWN
+-------------------------------------------------- */
+/* Customize menu dropdown*/
+.dropdown .dropdown-menu{
+  background-color: #0000AA;
+}
+/* Customize menu dropdown*/
+.dropdown-menu{
+  font-size: 20px;
+  font-family: comic sans ms, helvetica, arial;
+}
+/* Warna link dropdown*/
+.dropdown .dropdown-menu a{
+  color: #FFFFFF;
+  border-radius: 12px;
+}
+/* Warna link dropdown saat mouse hover*/
+.dropdown .dropdown-menu a:hover{
+  background-color: #0000F2;
+  color: #FFFFFF;
+}
+/* Warna link dropdown saat aktif */
+.dropdown .dropdown-menu .active a{
+  background-color: #0000F2;
+}
+/* Warna link dropdown yang sedang "aktif" akan berubah warna
+saat mouse hover, agar tidak menganggu konsistensi*/
+.dropdown .dropdown-menu .active a:hover{
+  background-color: #0000F2;
+  color: #FFFFFF;
+}
+/* Customize kata "ABOUT US" pada menu dropdown */
+.dropdown .dropdown-menu h5{
+  text-align: center;
+  font-weight: bold;
+  font-size: 15px;
+  font-family: comic sans ms, helvetica, arial;
+  color: #FFFFFF;
+}
+/* CUSTOMIZE THE CAROUSEL
+-------------------------------------------------- */
+/*Kulit Carousel*/
+.carousel {
+  height: 500px;
+  margin-top: 10px;
+  margin-bottom: 70px;
+}
+/* Since positioning the image, we need to help out the caption */
+.carousel-caption {
+  z-index: 121;
+}
+/* Declare heights because of positioning of img element */
+.carousel .item {
+  height: 500px;
+}
+.carousel-inner > .item > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: 500px;
+  width: 100%;
+}
+/* Customize Warna Tombol yang ada dalam Carousel */
+.carousel .carousel-caption .btn-primary{
+  background-color: #000000;
+}
+/* Tombol didalam Carousel berganti warna saat di mouse hover */
+.carousel .carousel-caption .btn-primary:hover{
+  background-color: #0000F2;
+}
+/* Carousel Heading*/
+.carousel h1{
+  color: #000000;
+  font-weight: bold;
+  font-size: 35px; 
+}
+/* Carousel h1 class utama*/
+.carousel .utama{
+  color: #000090;
+  margin-bottom: 80px;
+  font-family: comic sans ms, helvetica, arial;
+}
+/* Carousel paragraf */
+.carousel p{
+  color: #000000;
+  font-weight: bold;
+  font-size: 25px;
+}
+/* CUSTOMIZE TEMPLATE DASHBOARD
+-------------------------------------------------- */
+/* Customize Dashboard (Bagian Pengurus)*/
+.placeholders {
+  margin-bottom: 30px;
+  text-align: center;
+  font-family: trebuchet ms, garamond, helvetica;
+}
+.placeholder img {
+  display: inline-block;
+  border-radius: 50%;
+}
+.gmbrkontak{
+  width: 150%
+}
+
+/* CUSTOMIZE FORM PENDAFTARAN & PEMBATALAN
+-------------------------------------------------- */
+/*Bagian list checkbox jurusan pada form pendaftaran*/
+#contact .container .control-group{
+  font-weight: bold;
+  font-size: 18px;
+}
+/*Bagian checkbox*/
+#contact .container .control-group .checkbox{
+  margin-left: 40px;
+  font-weight: bold;
+  font-size: 18px;
+}
+/* CUSTOMIZE MARKETING DAN FEATURETTES
+-------------------------------------------------- */
+/* Customize Tombol*/
+.marketing .btn-default{
+  background-color: #000050;
+  color: #FFFFFF;
+}
+/* Customize Tombol saat di Hover*/
+.marketing .btn-default:hover{
+  background-color: #0000F2;
+  color: #FFFFFF;
+}
+/* Customize IMG CIRCLE*/
+.container .marketing .img-circle{
+  width: 140px;
+  height: 140px;
+}
+.navbar .container .navbar-right img{
+  width: 50px;
+  height: 50px;
+  border-radius: 100px;
+  margin-top: 5px;
+  position: static;
+}
+/* CUSTOMIZE FOOTER
+-------------------------------------------------- */
+footer {
+  color: #000000;
+  font-family: verdana, garamond, helvetica;
+}
+footer h2{
+  margin-bottom: 30px;
+  font-size: 40px;
+}
+footer p{
+  font-size: 30px;
+}
+/* Customize lambang facebook di footer*/
+.sosmed{
+  height: 60px;
+  width: 60px;
+  border-radius: 50px;
+}
+/* BAGIAN VISI DAN MISI
+-------------------------------------------------- */
+.page-header h1{
+  font-weight: bold;
+  font-size: 40px;
+  font-family: comic sans ms, helvetica, arial;
+  color: #000060;
+}
+
+.well p{
+  font-weight: bold;
+  font-size: 25px;
+  font-family: comic sans ms, helvetica, arial;
+  color: #0000F2;
+}
+/* CUSTOMIZE GALLERY
+-------------------------------------------------- */
+.gmbr{
+  width: 80%;
+}
+.container .blabla img{
+  margin-top: 10px;
+}
