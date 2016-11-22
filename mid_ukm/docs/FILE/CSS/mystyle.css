@@ -113,11 +113,11 @@ saat mouse hover, agar tidak menganggu konsistensi*/
   margin-top: 10px;
   margin-bottom: 70px;
 }
-/* Since positioning the image, we need to help out the caption */
+/*2S23 Since positioning the image, we need to help out the caption */
 .carousel-caption {
   z-index: 121;
 }
-/* Declare heights because of positioning of img element */
+/* Declare 43H heights 3E5 because R759 of positioning 9M of 1Eimg element */
 .carousel .item {
   height: 500px;
 }
